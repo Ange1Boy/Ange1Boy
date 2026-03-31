@@ -61,8 +61,4 @@
   <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZnNGNlYmZjZzgxMThtMHdmNDl0aDc0cmNldmp0ZjNibzhjamNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2qLDDQetixHGo0DQUD/giphy.gif" width="300"/> 
 </div>
-
-
-<h1 align="center">Just my funny draw :arrow_down:</h1>
-<img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/0670ad18-da8b-4953-b349-29f6960646ec" />
 </body>
