@@ -1,4 +1,4 @@
-![i](https://github.com/user-attachments/assets/0c3c1ad1-058e-4733-9d67-2082035995f2)<h1 align="center">call me AngelBoy :wing: </h1>
+![i](https://github.com/user-attachments/assets/0c3c1ad1-058e-4733-9d67-2082035995f2)<h1 align="center">call me AngelBoy or Weks :wing: </h1>
 <h2 align="center">You can sit next to me or talk to me. :speech_balloon: I'm not against interactions.</h2>
 <body>
 
